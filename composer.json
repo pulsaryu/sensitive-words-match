@@ -1,0 +1,19 @@
+{
+    "name": "pulsaryu/sensitive-words-match",
+    "description": "Sensitive words match.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Yuxing Sun",
+            "email": "yuxinghappy@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {"Pulsaryu\\SensitiveWordMatch\\": "src/"}
+    },
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^5.6"
+    }
+}
