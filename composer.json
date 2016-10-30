@@ -12,7 +12,9 @@
     "autoload": {
         "psr-4": {"Pulsaryu\\SensitiveWordMatch\\": "src/"}
     },
-    "require": {},
+    "require": {
+        "php": ">=5.5"
+    },
     "require-dev": {
         "phpunit/phpunit": "^5.6"
     }
